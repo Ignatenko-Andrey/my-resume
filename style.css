@@ -12,6 +12,9 @@ body {
   padding-bottom: 40px;
   font-family: Montserrat;
 }
+a {
+  text-decoration: none;
+}
 .wrapper {
   background-color: #ffffff;
   display: flex;
